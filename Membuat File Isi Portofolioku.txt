@@ -1,0 +1,3 @@
+Menampilkan Profile saya
+Menampilkan Project yang pernah saya kerjakan
+Menjelaskan tahapan pembelajaran Bahasa Pemrograman yang saya pelajari
